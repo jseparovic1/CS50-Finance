@@ -1,0 +1,1 @@
+<p> A share of <b><?php echo htmlspecialchars($name) . "</b> costs <b>" . htmlspecialchars($price)  ?>$</b></p>

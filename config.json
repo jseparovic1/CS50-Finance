@@ -1,0 +1,8 @@
+{
+    "database": {
+        "host": "localhost",
+        "name": "pset7",
+        "username": "cloud9 username",
+        "password": "cloud9 password"
+    }
+}
